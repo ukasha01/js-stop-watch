@@ -1,0 +1,22 @@
+.main {
+
+    width: 100%;
+}
+
+.heading {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: nowrap;
+    width: 50%;
+    /* text-align: center; */
+}
+
+.mybtn{
+    width:50%;
+}
+.disable{
+    visibility: hidden !important;
+}
+.visible{
+    visibility: visible !important;
+}
